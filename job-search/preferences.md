@@ -35,3 +35,14 @@
 | 薪資有機會比現在高 | 10 |
 
 JD 沒寫到的項目標「未知」，不要猜。
+
+## 搜尋來源
+- 求職平台：JobFrog（job-frog.com）、104、CakeResume（cake.me）、Yourator、LinkedIn
+- 公司官網：品牌公司（L'Oréal、Richemont、P&G、Diageo、Unilever）、外商科技、平台／電商
+- Hybrid／遠端：
+  - CakeResume、Yourator、104、LinkedIn 的「遠端／混合」篩選
+  - 遠端職缺網站：Himalayas（himalayas.app）、Remote Rocketship（remoterocketship.com）、We Work Remotely、Remote OK、Wellfound
+- 遠端職缺的額外規則：
+  - 要能從台灣聘用（Taiwan-eligible），不能只限美國或歐洲居民
+  - 工作時間要能配合台灣白天；需要固定配合美國或歐洲時區開夜間會議的要標註，等同輪班就排除
+  - 遠端網站加密貨幣／Web3 職缺很多，照樣排除
