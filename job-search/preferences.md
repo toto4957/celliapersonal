@@ -46,3 +46,10 @@ JD 沒寫到的項目標「未知」，不要猜。
   - 要能從台灣聘用（Taiwan-eligible），不能只限美國或歐洲居民
   - 工作時間要能配合台灣白天；需要固定配合美國或歐洲時區開夜間會議的要標註，等同輪班就排除
   - 遠端網站加密貨幣／Web3 職缺很多，照樣排除
+
+## 讀網頁的方法（2026-10-15 測試）
+- 環境網路已開放。curl 讀得到的網站直接用 curl／WebFetch。
+- 動態網頁或 curl 回 403 的，改用 `NODE_PATH=$(npm root -g) node job-search/fetch.mjs <網址>`（內建 Chromium）。
+- 測試結果：
+  - 可以讀：104、CakeResume、LinkedIn、Himalayas、Remote Rocketship、We Work Remotely、Remote OK、Wellfound、Richemont、DKSH
+  - 仍被網站的防機器人機制擋住：JobFrog、Yourator（Cloudflare 驗證）、Tesla（Akamai）→ 只能靠搜尋摘要，報的時候標「需要 CC 自己確認」
