@@ -53,3 +53,9 @@ JD 沒寫到的項目標「未知」，不要猜。
 - 測試結果：
   - 可以讀：104、CakeResume、LinkedIn、Himalayas、Remote Rocketship、We Work Remotely、Remote OK、Wellfound、Richemont、DKSH
   - 仍被網站的防機器人機制擋住：JobFrog、Yourator（Cloudflare 驗證）、Tesla（Akamai）→ 只能靠搜尋摘要，報的時候標「需要 CC 自己確認」
+  - 104、CakeResume 時好時壞（有時跳 Cloudflare 驗證），讀不到就跳過
+- **LinkedIn 最好用（2026-10-15 實測）**，用 curl 就能讀，不用登入：
+  - 搜尋台北 hybrid／遠端、近 30 天：`https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=<關鍵字>&location=Taipei%20City%2C%20Taiwan&f_WT=2%2C3&f_TPR=r2592000&start=0`
+  - 讀單一 JD：`https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/<職缺ID>`（頁面有 "No longer accepting applications" 就是已關閉）
+  - 太快連續抓會回空白頁，間隔幾秒再試
+  - 注意：f_WT 篩選不代表一定是 hybrid，要看 JD 內文（例如 Radiometer 被篩進來但 JD 寫 on-site）
