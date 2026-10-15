@@ -16,6 +16,6 @@
 - 2026-10-15（手動補跑）｜Arm｜Sales Operations Specialist（台北）｜https://tw.linkedin.com/jobs/view/sales-operations-specialist-at-arm-4455690312｜CC 之前投過，已被婉拒，不要再推薦這個職缺
 - 2026-10-15（手動補跑）｜Nexperia｜Sr. Customer Supply Representative（台北）｜https://tw.linkedin.com/jobs/view/sr-customer-supply-representative-at-nexperia-4476403845｜已確認還在招（LinkedIn）；hybrid 未知；74 分
 - 2026-10-15（手動補跑）｜Pernod Ricard｜Sales Force Effectiveness Assistant Manager（台北）｜https://tw.linkedin.com/jobs/view/sales-force-effectiveness-assistant-manager-at-pernod-ricard-4463250152｜已確認還在招（LinkedIn）；hybrid 未知；68 分
-- 2026-10-15（手動補跑）｜Arrow Electronics｜Sales Operations Officer（實際在新北中和建一路，非台北市）｜https://tw.linkedin.com/jobs/view/sales-operations-officer-at-arrow-electronics-4473777919｜已確認還在招（LinkedIn）；hybrid 未知；61 分
+- 2026-10-15（手動補跑）｜Arrow Electronics｜Sales Operations Officer（新北中和建一路，離 CC 家近）｜https://tw.linkedin.com/jobs/view/sales-operations-officer-at-arrow-electronics-4473777919｜已確認還在招（LinkedIn）；hybrid 未知；61 分
 - 2026-10-15（手動補跑）｜inline｜(Senior) GTM Operations Specialist（台北）｜https://tw.linkedin.com/jobs/view/senior-gtm-operations-specialist-performance-management-at-inline-4477275930｜已確認還在招（LinkedIn）；hybrid 未知；60 分
 - 2026-10-15（手動補跑）｜排除未報｜Klook Sales Ops Associate ×2（收應屆）、Radiometer（on-site、行政）、Thermo Fisher（Logistics Specialist I 初階）、Hoya／PerkinElmer（倉儲）、STMicro（5–10 年半導體）、Shopee（0–3 年）、Citi／JPMorgan／DBS／HSBC（金融）、BTSE（加密貨幣）、新竹／林口／桃園職缺

@@ -14,3 +14,6 @@
 格式：日期｜公司｜職稱｜結果
 
 - （2026-10-15 前）｜Arm（安謀）｜Sales Operations Specialist｜已婉拒
+- 2026-10-15｜Nexperia（台北南港）｜Sr. Customer Supply Representative｜已投遞
+- 2026-10-15｜Pernod Ricard（台北中山）｜Sales Force Effectiveness Assistant Manager｜已投遞
+- 2026-10-15｜Arrow Electronics（新北中和）｜Sales Operations Officer｜已投遞
