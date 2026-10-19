@@ -11,6 +11,7 @@
 - 2026-10-15（手動補跑）｜第 2 天｜5 筆（皆已確認還在招）｜網路開放後重跑；LinkedIn 可直接讀 JD；104、CakeResume 被 Cloudflare 擋
 - 2026-10-19｜第 6 天｜2 筆（皆已確認還在招）｜排程只搜尋 LinkedIn（台北市＋新北市）；推送失敗，由主對話補存
 - 2026-10-19（補跑測試）｜第 6 天｜4 筆（LinkedIn 未關閉，需 CC 確認）｜排程拿不到 repo 寫入權限，紀錄由主對話補存；104／CakeResume／JobFrog／Yourator 未查
+- 2026-10-19（推播測試）｜第 6 天｜3 筆（需 CC 確認）｜第一次全來源檢查：104、CakeResume、JobFrog、Yourator、Himalayas 被 Cloudflare 擋；Diageo、Unilever 官網連不上
 
 ## 投遞紀錄
 格式：日期｜公司｜職稱｜結果

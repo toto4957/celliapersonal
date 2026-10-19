@@ -27,3 +27,7 @@
 - 2026-10-19（補跑）｜Morrison Express｜Master Data Management Analyst（HQ，台北）｜https://tw.linkedin.com/jobs/view/4464862129｜hybrid 未知；資料品質／驗證類；約 45 分
 - 2026-10-19（補跑）｜Qualcomm｜Sr. Business Operations Analyst – Automotive BU（台北）｜https://tw.linkedin.com/jobs/view/4458977044｜hybrid 未知；偏半導體需求規劃；約 45 分
 - 2026-10-19（補跑）｜Radiometer｜Customer Support & Operations Administrator（台北）｜https://tw.linkedin.com/jobs/view/4459524471｜JD 寫到辦公室；約 50 分
+- 2026-10-19（推播測試）｜Uber｜Strategy & Operations Manager (Restaurant Direct)（台北）｜https://www.linkedin.com/jobs/view/4480142239｜LinkedIn 未關閉；偏策略成長、4 年以上；約 48 分
+- 2026-10-19（推播測試）｜Kuehne+Nagel｜Air Logistics Operational Care Specialist（台北）｜https://www.linkedin.com/jobs/view/4478380462｜LinkedIn 未關閉；需貨代經驗；約 45 分
+- 2026-10-19（推播測試）｜Michael Page（美商科技客戶）｜Business Operation & Strategy Manager（台北）｜https://www.linkedin.com/jobs/view/4480334701｜獵頭職缺、資訊少；約 40 分
+- 2026-10-19（推播測試）｜排除未報｜Motorola Customer Ops（要德文／烏克蘭文）、inline Business Ops Manager（8 年以上）、Maersk Air Freight CX（初階）、Crescendo Lab Head of BizOps（太資深）、ASML 林口 ×3、Yourator 的 AsiaYo／MIXXIN（初階）
