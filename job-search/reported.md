@@ -22,3 +22,8 @@
 - 2026-10-19｜Intuitive｜Sr Sales Operations Analyst（台北）｜https://tw.linkedin.com/jobs/view/4480377101｜已確認還在招（LinkedIn，2 天前刊登）；hybrid 未知；要 5 年以上、SQL／Tableau；約 52 分
 - 2026-10-19｜Micron｜SR. Field Operations Analyst（台北）｜https://tw.linkedin.com/jobs/view/4458605948｜已確認還在招（LinkedIn）；hybrid 未知；預測規劃類，與現有工作較遠；約 48 分
 - 2026-10-19｜排除未報｜SiTime（桃園、入門）、Wonderland Group Assistant Manager Sales Ops（內湖、本土、帶人，約 30 分）、Qualcomm Sr Business Ops Analyst（NPI 產品導入，內容不符）、Thermo Fisher Import/Export（初階物流）、STMicro Business Ops & CS（已排除過）、Klook ×3（初階／非營運）、金融與新竹／桃園職缺
+- 2026-10-19（補跑）｜Wonderland Group｜Assistant Manager, Sales Operations（台北內湖）｜https://tw.linkedin.com/jobs/view/4475790029｜LinkedIn 未關閉；hybrid 未知；約 50 分；可能要帶人
+- 2026-10-19（補跑）｜Thermo Fisher｜Import & Export Operations Specialist（台北）｜https://tw.linkedin.com/jobs/view/4475155835｜到辦公室；實為 Logistics Specialist I，層級偏低；約 50 分
+- 2026-10-19（補跑）｜Morrison Express｜Master Data Management Analyst（HQ，台北）｜https://tw.linkedin.com/jobs/view/4464862129｜hybrid 未知；資料品質／驗證類；約 45 分
+- 2026-10-19（補跑）｜Qualcomm｜Sr. Business Operations Analyst – Automotive BU（台北）｜https://tw.linkedin.com/jobs/view/4458977044｜hybrid 未知；偏半導體需求規劃；約 45 分
+- 2026-10-19（補跑）｜Radiometer｜Customer Support & Operations Administrator（台北）｜https://tw.linkedin.com/jobs/view/4459524471｜JD 寫到辦公室；約 50 分
