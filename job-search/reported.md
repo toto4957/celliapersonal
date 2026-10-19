@@ -31,3 +31,4 @@
 - 2026-10-19（推播測試）｜Kuehne+Nagel｜Air Logistics Operational Care Specialist（台北）｜https://www.linkedin.com/jobs/view/4478380462｜LinkedIn 未關閉；需貨代經驗；約 45 分
 - 2026-10-19（推播測試）｜Michael Page（美商科技客戶）｜Business Operation & Strategy Manager（台北）｜https://www.linkedin.com/jobs/view/4480334701｜獵頭職缺、資訊少；約 40 分
 - 2026-10-19（推播測試）｜排除未報｜Motorola Customer Ops（要德文／烏克蘭文）、inline Business Ops Manager（8 年以上）、Maersk Air Freight CX（初階）、Crescendo Lab Head of BizOps（太資深）、ASML 林口 ×3、Yourator 的 AsiaYo／MIXXIN（初階）
+- 2026-10-19（CC 自己找到）｜Motorola Solutions（Silvus）｜Customer Operations（台北，可 100% 遠端）｜https://www.linkedin.com/jobs/view/4463167502｜不推薦：硬性要求德文或烏克蘭文、國防／無人機產業、出差 10–25%；約 35 分
