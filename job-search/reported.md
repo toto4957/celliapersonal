@@ -32,3 +32,9 @@
 - 2026-10-19（推播測試）｜Michael Page（美商科技客戶）｜Business Operation & Strategy Manager（台北）｜https://www.linkedin.com/jobs/view/4480334701｜獵頭職缺、資訊少；約 40 分
 - 2026-10-19（推播測試）｜排除未報｜Motorola Customer Ops（要德文／烏克蘭文）、inline Business Ops Manager（8 年以上）、Maersk Air Freight CX（初階）、Crescendo Lab Head of BizOps（太資深）、ASML 林口 ×3、Yourator 的 AsiaYo／MIXXIN（初階）
 - 2026-10-19（CC 自己找到）｜Motorola Solutions（Silvus）｜Customer Operations（台北，可 100% 遠端）｜https://www.linkedin.com/jobs/view/4463167502｜不推薦：硬性要求德文或烏克蘭文、國防／無人機產業、出差 10–25%；約 35 分
+- 2026-10-22｜Rambus｜Sales Operation Analyst（台北）｜https://www.linkedin.com/jobs/view/4471783328｜LinkedIn 未關閉；JD 明寫 hybrid（每週 3 天進辦公室、2 天遠端）；審核 PO、解決訂單差異、O2C；3 年以上；200+ 人應徵；約 82 分
+- 2026-10-22｜Graphcore｜Supply Chain Specialist（台北）｜https://www.linkedin.com/jobs/view/4480453900｜LinkedIn 未關閉；彈性工作、假多；PO 到結案、調查數量和文件差異；約 72 分
+- 2026-10-22｜Brown-Forman｜Supply Planning Analyst（台北）｜https://www.linkedin.com/jobs/view/4471597879｜LinkedIn 未關閉；hybrid（週一至四進辦公室、週五在家）；品牌公司；庫存核對、補貨規劃；2–4 年；約 70 分
+- 2026-10-22｜STERIS｜Commercial Operations Specialist（台北–基隆地區）｜https://www.linkedin.com/jobs/view/4481565632｜LinkedIn 未關閉；hybrid 未知；訂單與庫存流程、導入 ERP；3 年以上 MNC 行政；約 62 分
+- 2026-10-22｜Zuellig Pharma｜SFE/CRM Analyst（台北）｜https://www.linkedin.com/jobs/view/4480454530｜LinkedIn 未關閉；hybrid 未知；業務區域、目標、獎金計算、CRM 資料；2 年以上；約 58 分
+- 2026-10-22｜排除未報｜Coupang Cross-Border（6 年以上 program mgmt）、Coupang S&OP、General Mills SC Coordinator（1–3 年）、LitePoint CS（1–3 年）、SiTime（桃園 on-site）、Samsonite/TUMI Retail Ops（門市營運）、GE HealthCare TWHK Head（15 年）、WorkCo（新創客戶導入）、Morrison Control Tower（輪班）、金融（Citi／JPM／DBS／Deutsche／State Street／BNY／StanChart）、新竹／桃園職缺
