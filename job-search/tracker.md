@@ -18,8 +18,9 @@
 格式：日期｜公司｜職稱｜結果
 
 - （2026-10-15 前）｜Arm（安謀）｜Sales Operations Specialist｜已婉拒
-- 2026-10-15｜Nexperia（台北南港）｜Sr. Customer Supply Representative｜已投遞
+- 2026-10-15｜Nexperia（台北南港）｜Sr. Customer Supply Representative｜已婉拒
 - 2026-10-15｜Pernod Ricard（台北中山）｜Sales Force Effectiveness Assistant Manager｜已投遞
-- 2026-10-15｜Arrow Electronics（新北中和）｜Sales Operations Officer｜已投遞
+- 2026-10-15｜Arrow Electronics（新北中和）｜Sales Operations Officer｜已婉拒
 - 2026-10-22｜Rambus（台北）｜Sales Operation Analyst｜已投遞（客製履歷）
 - 2026-10-22｜Graphcore（台北）｜Supply Chain Specialist｜已投遞（客製履歷＋求職信）
+- （2026-10-22 前）｜明門 Wonderland Group（台北內湖）｜Assistant Manager, Sales Operations｜已婉拒
